@@ -1,0 +1,6 @@
+This directory is going to be very messy- it will sit here, as testament to the scatter-brained nature of the owner of this laptop...
+
+Mini-Goals:
+
+1. write a multi-file program with multiple defined functions...
+
